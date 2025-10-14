@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_snow",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_snow",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
